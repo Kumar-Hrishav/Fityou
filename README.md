@@ -1,16 +1,6 @@
-[![OSCI-Project-Banner.png](https://i.postimg.cc/76mJvBmF/OSCI-Project-Banner.png)](https://postimg.cc/8JfzMb84)
 # FitAi: Your AI Fitness Companion 🌟
 
 FitAi redefines fitness with AI-driven personalized plans for workouts and diets. Empowering your fitness journey with technology and expertise, FitAi adapts to your goals and lifestyle.
-
-**🌐 Live Deployment:** [Check it out here 👀](https://fityou-fit-ai.onrender.com/)
-
-**Points for issues on leaderboard:** (Currently not started yet)
-1 star - 5 points | 
-2 star - 10 points |
-3 star - 15 points
-
----
 
 <details>
   <summary><strong>📑 Table of Contents</strong></summary>
@@ -120,28 +110,8 @@ http://localhost:3000
 4. Push to your branch: `git push origin feature-name`  
 5. Open a pull request for review.  
 
----
-
-## 📞 Contact
-
-- **Name:** Nikhil Balamurugan  
-- **GitHub:** [Nikhil210206](https://github.com/Nikhil210206)  
-- **Email:** nikhilbalamurugan@gmail.com  
-
----
-
-## 🙏 Acknowledgments
-
-- My incredible team and contributors.  
-- Open-source tools and libraries.  
-- The fitness community for endless inspiration.  
-
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
----
-
-## This Project is under Open Source Connect India 2025
